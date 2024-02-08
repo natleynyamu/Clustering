@@ -1,6 +1,8 @@
 # Clustering
 
 ## NewsClusteringApp
+https://natleynyamu-clustering-news-clustering-app-asmdtl.streamlit.app/
+
 This is a Streamlit web application that clusters news articles fetched from the News API based on their content similarity. It allows users to specify a search query and the number of clusters to generate.
 
 ### Features
