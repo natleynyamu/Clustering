@@ -26,6 +26,8 @@ This is a Streamlit web application that clusters news articles fetched from the
 
 
 ## ImageClusteringApp
+https://natleynyamu-clustering-image-clustering-app-2se7ws.streamlit.app/
+
 This is a Streamlit web application that clusters product images retrieved from Unsplash based on their similarity. It allows users to specify a search query, the number of images to search for, and the number of clusters to generate.
 
 ### Features
